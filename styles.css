@@ -19,7 +19,6 @@ h2, h3, h4 {
 }
 
 div {
-    background-color: white;
     color: red;
     font-size: 18px;
 }
@@ -29,4 +28,3 @@ img {
     height: auto;
     border-radius: 8px;
 }
-
