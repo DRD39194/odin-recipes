@@ -9,8 +9,18 @@ h1 {
     color: white;
 }
 
+h2, h3, h4 {
+    color: red;
+    background-color: rgba(123, 0, 0, 0.25);
+}
+
 div {
     background-color: white;
     color: red;
     font-size: 18px;
+}
+
+img {
+    height: 300px;
+    width: auto;
 }
