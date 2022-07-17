@@ -1,5 +1,6 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: tan;
 }
 
 h1 {
@@ -7,11 +8,14 @@ h1 {
     font-size: 30px;
     background-color: red;
     color: white;
+    border-radius: 8px;
 }
 
 h2, h3, h4 {
     color: red;
     background-color: rgba(123, 0, 0, 0.25);
+    border-radius: 8px;
+    text-align: center;
 }
 
 div {
@@ -21,6 +25,7 @@ div {
 }
 
 img {
-    height: 300px;
-    width: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
 }
